@@ -8,8 +8,10 @@
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-### I have used vite with react js, please refer vite js documentation - https://vitejs.dev/guide/ 
 
+----
+## I have used vite with react js, please refer vite js documentation - https://vitejs.dev/guide/ 
+----
 
 ## Run Locally
 
